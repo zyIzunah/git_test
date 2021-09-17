@@ -1,0 +1,1 @@
+This is Damon's first git project.. well, not exactly, but one of my first to done following the odin project anyways!
